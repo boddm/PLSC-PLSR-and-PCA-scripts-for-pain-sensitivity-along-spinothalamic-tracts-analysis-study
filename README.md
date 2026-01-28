@@ -1,0 +1,2 @@
+# Add-spinothalamic-tracts-analysis-PLSC-PLSR-and-PCA-scripts-for-pain-sensitivity-study
+This repository provides analysis scripts for the study “Spinothalamic Tract Microstructure as a Common Neural Substrate of Pain Sensitivity Across Modalities.” It includes corticospinal diffusion MRI processing and multivariate analyses (PLSC, PLSR, PCA) to identify microstructural predictors of multimodal pain sensitivity.
